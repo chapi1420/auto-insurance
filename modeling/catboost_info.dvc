@@ -1,6 +1,6 @@
 outs:
-- md5: 9a5c27d5bd04a038ff0a224e3e87b1bd.dir
-  size: 182330
+- md5: df7f6dee4b27aecd600cfb57eaab7a9b.dir
+  size: 182323
   nfiles: 4
   hash: md5
   path: catboost_info
